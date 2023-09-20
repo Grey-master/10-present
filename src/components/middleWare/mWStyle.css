@@ -1,0 +1,21 @@
+/*PhoneInput*/
+.form-control {
+	background-color: rgb(255, 255, 255) !important;
+	color: rgb(0, 0, 0);
+	height: 55px !important;
+	width: 400px !important;
+  }
+  .react-tel-input {
+	margin-top: 10px !important;
+	margin-bottom: 10px;
+	margin-left: 10px !important;
+  }
+  
+  .flag-dropdown {
+	background-color: rgb(184, 214, 253) !important;
+  }
+
+.date-style {
+	color:blueviolet;
+}
+	
